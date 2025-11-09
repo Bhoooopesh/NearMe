@@ -113,6 +113,9 @@ and a peaceful, nature-filled vibe, making it a "big YES" for a calm weekend get
 
 
 ## OUTPUT
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d0646660-32e3-4614-aad3-596a28fad7fb" />
+
+
 ![alt text](1.png)
 
 
